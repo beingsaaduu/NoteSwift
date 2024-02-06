@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Meeting Agenda",
+      "content": "Discuss project milestones and upcoming deadlines."
+    },
+    {
+      "id": 2,
+      "title": "Shopping List",
+      "content": "Milk, eggs, bread, vegetables, and fruits."
+    },
+    {
+      "id": 3,
+      "title": "Book Recommendations",
+      "content": "Check out 'The Great Gatsby' and 'To Kill a Mockingbird'."
+    },
+    {
+      "id": 4,
+      "title": "Fitness Goals",
+      "content": "Complete 30 minutes of cardio and 20 minutes of strength training."
+    },
+    {
+      "id": 5,
+      "title": "Recipe Ideas",
+      "content": "Try making homemade pizza and vegetable stir-fry this week."
+    }
+  ]
+}

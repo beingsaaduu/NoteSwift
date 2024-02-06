@@ -1,0 +1,27 @@
+.noteTab_row{
+  overflow-y: scroll;
+  /* height: 60%; */
+  display: block !important;
+}
+
+.noteTab_Search input{
+  border-radius: 10px;
+  width: 85% !important;
+  margin-left: 0px !important;
+  font-family: 'Titillium Web', sans-serif;
+  padding-left: 8px;
+}
+
+.noteTab_Search button{
+  background-color: #EBD9B4 !important;
+  border-radius: 50px !important;
+  width: 12% !important;
+  margin-left: 7px !important;
+}
+
+.plus_Image{
+  /* width: 20px;
+  height: 20px; */
+  margin-left: -4px;
+  margin-top: -1px;
+}

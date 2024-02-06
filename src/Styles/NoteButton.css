@@ -1,0 +1,26 @@
+.noteButton_Main {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 15%;
+  padding: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  background-color: #EBD9B4;
+}
+
+.noteButton_Main:hover {
+  background-color: #FFFFEC;
+  transition: 0.5s;
+}
+
+.noteButton_Main h5 {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+}
+
+.noteButton_Main p {
+  font-family: 'Titillium Web', sans-serif;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
